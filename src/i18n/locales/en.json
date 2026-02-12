@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "destinations": "Destinations",
+    "experiences": "Experiences",
+    "chat": "Chat",
+    "about": "About",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "favorites": "Favorites",
+    "signIn": "Sign In",
+    "getStarted": "Get Started",
+    "signOut": "Sign Out"
+  },
+  "hero": {
+    "title": "Discover Your Next Adventure",
+    "subtitle": "Explore breathtaking destinations and create unforgettable memories",
+    "cta": "Start Exploring"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View"
+  }
+}
